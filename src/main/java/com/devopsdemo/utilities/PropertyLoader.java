@@ -8,7 +8,7 @@ import java.util.ResourceBundle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
+/***
  * Utility class for loading properties from files or resource bundles.
  */
 public class PropertyLoader {
